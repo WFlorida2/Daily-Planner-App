@@ -1,2 +1,4 @@
-var today = dayjs().format('dddd D MMMM YYYY');
-$('#currentDay').text(today)
+
+
+    var today = dayjs().format('dddd, D MMMM YYYY');
+    $('#currentDay').text(today)
