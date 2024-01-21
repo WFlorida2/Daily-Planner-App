@@ -1,102 +1,102 @@
-body {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
-  line-height: 1;
-}
+    body {
+      font-family: 'Open Sans', sans-serif;
+      font-size: 16px;
+      line-height: 1;
+    }
 
-textarea {
-  background: transparent;
-  border: none;
-  resize: none;
-  color: #000000;
-  border-left: 1px solid black;
-  padding: 10px;
-}
+    textarea {
+      background: transparent;
+      border: none;
+      resize: none;
+      color: #000000;
+      border-left: 1px solid black;
+      padding: 10px;
+    }
 
-header {
-  text-align: center;
-  background-color: transparent;
-  color: black;
-  border-radius: 0;
-  border-bottom: 10px solid black;
-  padding: 20px;
-}
-#planner {
-    max-width: 800px;
-    margin: 20px auto;
-}
+    header {
+      text-align: center;
+      background-color: transparent;
+      color: black;
+      border-radius: 0;
+      border-bottom: 10px solid black;
+      padding: 20px;
+    }
+    #planner {
+        max-width: 800px;
+        margin: 20px auto;
+    }
 
-.time-block {
-    display: flex;
-    align-items: center;
-    margin-bottom: 10px;
-    padding: 10px;
-    border: 1px solid #050000;
-    border-radius: 5px;
-}
+    .time-block {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+        padding: 10px;
+        border: 1px solid #050000;
+        border-radius: 5px;
+    }
 
-.time-block div {
-    flex: 1;
-}
-.row {
-  white-space: pre-wrap;
-  height: 80px;
-  border-top: 1px solid white;
-}
+    .time-block div {
+        flex: 1;
+    }
+    .row {
+      white-space: pre-wrap;
+      height: 80px;
+      border-top: 1px solid white;
+    }
 
-.hour {
-  background-color: #ffffff;
-  color: #000000;
-  border-top: 1px dashed #000000;
-}
-/* Style for past time blocks */
-.past {
-  background-color: #d3d3d3;
-  color: white;
-}
+    .hour {
+      background-color: #ffffff;
+      color: #000000;
+      border-top: 1px dashed #000000;
+    }
+    /* Style for past time blocks */
+    .past {
+      background-color: #d3d3d3;
+      color: white;
+    }
 
-/* Style for present time block */
-.present {
-  background-color: #ff6961;
-  color: white;
-}
+    /* Style for present time block */
+    .present {
+      background-color: #ff6961;
+      color: white;
+    }
 
-/* Style for future time blocks */
-.future {
-  background-color: #77dd77;
-  color: white;
-}
+    /* Style for future time blocks */
+    .future {
+      background-color: #77dd77;
+      color: white;
+    }
 
-input {
-    width: 70%;
-    margin-right: 10px;
-    padding: 5px;
-    border: 1px solid #ddd;
-    border-radius: 3px;
-}
+    input {
+        width: 70%;
+        margin-right: 10px;
+        padding: 5px;
+        border: 1px solid #ddd;
+        border-radius: 3px;
+    }
 
-button {
-    padding: 5px 10px;
-    background-color: #ffffff;
-    cursor: pointer;
-    border-left: 1px solid var(--BLACK);
-    border-top-right-radius: 15px;
-    border-bottom-right-radius: 15px;
-    background-color: var(--BLUE);
-    color: var(--FONT-WHITE);
-    font-size: 1.25rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+    button {
+        padding: 5px 10px;
+        background-color: #ffffff;
+        cursor: pointer;
+        border-left: 1px solid var(--BLACK);
+        border-top-right-radius: 15px;
+        border-bottom-right-radius: 15px;
+        background-color: var(--BLUE);
+        color: var(--FONT-WHITE);
+        font-size: 1.25rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 
-button:hover {
-    font-size: 20px;
-    color:blue;
-    transition: all 0.3s ease-in-out;
-}
+    button:hover {
+        font-size: 20px;
+        color:blue;
+        transition: all 0.3s ease-in-out;
+    }
 
-#currentDay {
-    font-size: 1.5em;
-    margin-bottom: 20px;
-}
+    #currentDay {
+        font-size: 1.5em;
+        margin-bottom: 20px;
+    }
