@@ -1,7 +1,36 @@
 # Daily-Planner-App
 
+This challenge will create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code.
 
-## Below is a pseudo code outlining the requirements: ( Credit given to ChatGPT for listing the pseudo code in an easy to understand way)
+## Skills used:
+
+DOM manipulation, advanced JavaScript, integration of third-party APIs. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+
+
+## Wireframe tool used:
+•	n/a
+
+## Resources:
+•	W3School
+•	ChatGPT
+•	Xpert Learning Assistant
+•	Google search engines
+•	Classes recordings, activities and notes
+
+## Installation:
+•	To access the webpage, the following URL should be used:    “   ”. Once accessed, Type in the event in the event field and click on save button. Once the page is refreshed, you will still be able to see the event you entered previously.      
+•	As a developer who wishes to access the back-end files for this page, you will need to access GitHub to be able to open the repo via the following link: "  "    
+
+## CREDITS:
+•	Credit to students on the Discord group of helping each other’s out with couple of issues.
+•	https://chat.openai.com/  
+•	Xpert Learning Assistant  
+•	W3School  
+
+
+## Pseudocode:
+
+## Below is a pseudo code outlining the requirements:
 
 1. When the document is fully loaded:
    a. Get the current date using a date library (e.g., dayjs).
