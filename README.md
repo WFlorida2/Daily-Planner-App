@@ -66,3 +66,10 @@ DOM manipulation, advanced JavaScript, integration of third-party APIs. This app
 7. When the user scrolls down:
    a. Implement a scroll event handler.
    b. If the user scrolls, show additional timeblocks dynamically.
+
+   ### End results:
+
+   ![Work Day Scheduler](images/Screenshot 2024-01-21 at 03.04.46.png)
+   ![Work Day Scheduler](images/Screenshot 2024-01-21 at 03.06.24.png)
+
+   
