@@ -69,7 +69,7 @@ DOM manipulation, advanced JavaScript, integration of third-party APIs. This app
 
    ### End results:
 
-   ![Work Day Scheduler](images/Screenshot 2024-01-21 at 03.04.46.png)
-   ![Work Day Scheduler](images/Screenshot 2024-01-21 at 03.06.24.png)
+   ![End result](./images/Screenshot%202024-01-21%20at%2003.04.46.png)
+   ![End result](./images/Screenshot%202024-01-21%20at%2003.06.24.png)
 
    
