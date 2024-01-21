@@ -18,8 +18,8 @@ DOM manipulation, advanced JavaScript, integration of third-party APIs. This app
 •	Classes recordings, activities and notes
 
 ## Installation:
-•	To access the webpage, the following URL should be used:    “   ”. Once accessed, Type in the event in the event field and click on save button. Once the page is refreshed, you will still be able to see the event you entered previously.      
-•	As a developer who wishes to access the back-end files for this page, you will need to access GitHub to be able to open the repo via the following link: "  "    
+•	To access the webpage, the following URL should be used:    “ https://wflorida2.github.io/Daily-Planner-App/  ”. Once accessed, Type in the event in the event field and click on save button. Once the page is refreshed, you will still be able to see the event you entered previously.      
+•	As a developer who wishes to access the back-end files for this page, you will need to access GitHub to be able to open the repo via the following link: " https://github.com/WFlorida2/Daily-Planner-App  "    
 
 ## CREDITS:
 •	Credit to students on the Discord group of helping each other’s out with couple of issues.
